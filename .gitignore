@@ -1,0 +1,18 @@
+# VSCode
+.vscode/
+
+# ROS2 build files
+build/
+install/
+log/
+
+# system files
+*.db
+*.sqlite
+
+# python cache
+__pycache__/
+*.pyc.vscode/
+build/
+install/
+log/
