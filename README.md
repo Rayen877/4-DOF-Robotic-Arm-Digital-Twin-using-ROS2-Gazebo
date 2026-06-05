@@ -35,7 +35,7 @@ The objective is to replicate the same movements from simulation onto the physic
 
 ---
 
-## Technologies Used
+## Technologies & tools Used
 
 - ROS 2
 - Gazebo
